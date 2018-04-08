@@ -1,0 +1,7 @@
+The prime number should be in "Prime.txt" file;
+
+The numbers chosen by sides A and B should be in "A's.txt" and "B's.txt" files;
+
+Message should be after a prime number in A's file;
+
+All files here should be in the same directory as main.cpp;
